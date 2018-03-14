@@ -5,3 +5,12 @@ My Application API through Swagger UI using Grizzly and Jersey.
 Note* There is a slash after docs/. So please take care of this else it won't work. If you want to see the whole schema of all the apis of your application, please type http://localhost:8080/swagger.json.
 
 Enjy and Happy coding and sharing as well :-) 
+
+## Copyright 
+
+Copyright (c) 2018 Tanuj Gupta
+
+---
+
+> GitHub [@guptakumartanuj](https://github.com/guptakumartanuj) &nbsp;&middot;&nbsp;
+> [Blog](https://guptakumartanuj.wordpress.com/) &nbsp;&middot;&nbsp;
